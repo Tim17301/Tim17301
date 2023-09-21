@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tim17301)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tim17301&theme=dark)](https://git.io/streak-stats)
 <!--
 **Tim17301/Tim17301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
